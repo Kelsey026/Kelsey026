@@ -1,7 +1,41 @@
-## Hi, I'm Kelsey! ✨
+# Hi 👋, I'm Kelsey!
 
-🎓 Economics major | 💻 Computer Science minor  <br/>
-📊 Interested in business analytics for entertainment, marketing & retail <br/>
+## 👨‍💻 About Me
+- 🎓 Undergraduate student majoring in **Economics** with a minor in **Computer Science**
+- 📊 Interested in **business analytics**, especially in **marketing, retail, and entertainment**
+- 🧠 I enjoy using data to understand consumer behavior and support business decisions
+- 🌱 Currently learning **Tableau** and improving my **GitHub** workflow
 
-<h3>About me:</h3>
-I'm an upper undergraduate student who enjoys using data to understand consumer behavior and business trends.
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=[Kelsey026]&show_icons=true&theme=default)
+
+
+---
+
+## 🛠️ Skills & Tools
+**Programming & Web**
+- Python
+- HTML
+- C++
+
+**Data & Analytics**
+- Tableau (learning)
+- Data visualization (learning)
+- Basic statistical analysis (learning)
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🎯 Goals
+- Build analytics projects using real-world data
+- Apply economic theory to business problems
+- Strengthen data visualization and storytelling skills
+- Prepare for internships and entry-level analytics roles
+
+  
