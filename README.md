@@ -1,3 +1,4 @@
-## Hi, I'm Kelsey ✨
+## Hi, I'm Kelsey! ✨
 
+Economics Major | Computer Science Minor
 
