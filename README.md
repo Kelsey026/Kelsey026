@@ -6,7 +6,6 @@
 - 🧠 I enjoy using data to understand consumer behavior and support business decisions
 - 🌱 Currently learning **Tableau** and improving my **GitHub** workflow
 
----
 
 ## 🛠️ Skills & Tools
 **Programming & Web**
@@ -24,7 +23,6 @@
 - GitHub
 - VS Code
 
----
 
 ## 🎯 Goals
 - Build analytics projects using real-world data
